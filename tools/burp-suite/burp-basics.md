@@ -11,3 +11,8 @@ Burp Suite is my primary tool for web application security testing.
 ## Usage in Practice
 - Intercepting and modifying requests to test input validation
 - Observing server-side behavior in response to crafted payloads
+
+## Authentication Testing
+- Intercepting login flows
+- Analyzing authentication logic
+- Testing edge cases and unexpected parameter combinations
